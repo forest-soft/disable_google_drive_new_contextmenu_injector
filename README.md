@@ -9,7 +9,7 @@ GoogleDriveアプリが追加した新規作成コンテキストメニューを
   タスクスケジューラ等を使ってログイン時に自動実行されるように設定してください。
 
 ## 簡単パターン
-1. Releasesから「disable_google_drive_new_contextmenu 1.0.0.zip」をダウンロードしてください。
+1. Releasesから「disable_google_drive_new_contextmenu.zip」をダウンロードしてください。
 2. Zipを解凍してください。
 3. GoogleDriveアプリが起動している状態で「injector.exe」を起動してください。
 4. 新規作成コンテキストメニューから「Google Docs」等が消えていれば成功です。
